@@ -9,8 +9,8 @@
         <relativePath/>
     </parent>
     <groupId>com.demir</groupId>
-    <artifactId>postman-collection-generator</artifactId>
-    <version>1.0.9</version>
+    <artifactId>collection-generator</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>PostmanCollectionGenerator</name>
     <description>Postman Collection Generator</description>
